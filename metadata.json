@@ -1,0 +1,7 @@
+{
+  "name": "SeoulMate - 首爾旅遊助手",
+  "description": "您的首爾旅遊全能管家：行程規劃、自動分帳、以及整合 Google Maps 的 AI 旅遊顧問。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
